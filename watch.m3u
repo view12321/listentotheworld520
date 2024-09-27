@@ -51,6 +51,9 @@
 
 
 【 动画 】,#genre#
+CCTV-14少儿,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
+CCTV-14少儿,http://tvbox6.icu/tv/migu.php?id=cctv14
+
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 
@@ -69,6 +72,7 @@
 灌篮高手,http://maomao.kandiantv.cn/yy.php?id=1356243352
 游戏王,http://maomao.kandiantv.cn/douyu1.php?id=7256376
 全职猎人,http://maomao.kandiantv.cn/douyu1.php?id=12235069
+火影忍者,http://maomao.kandiantv.cn/yy.php?id=1355336008
 
 犬夜叉,http://maomao.kandiantv.cn/douyu1.php?id=11906591
 犬夜叉,http://maomao.kandiantv.cn/yy.php?id=1509038705
@@ -86,12 +90,18 @@
 
 
 【 看剧 】,#genre#
-CCTV-1综合,http://live.dxms.top:80/dwy/mgak.php
+CCTV-1综合,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+CCTV-1综合,http://tvbox6.icu/tv/migu.php?id=cctv1
+
+CCTV-8电视剧,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+CCTV-8电视剧,http://tvbox6.icu/tv/migu.php?id=cctv8
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 经典一瞥1,http://maomao.kandiantv.cn/douyu1.php?id=7623292
 经典一瞥2,http://maomao.kandiantv.cn/douyu1.php?id=11774356
-经典一瞥3,http://live.dxms.top:80/dwy/cwjd.php
+经典一瞥3,http://maomao.kandiantv.cn/douyu1.php?id=12169420
+经典一瞥3,http://maomao.kandiantv.cn/yy.php?id=22089862
 经典一瞥4,http://maomao.kandiantv.cn/douyu1.php?id=4549169
 经典一瞥5,http://maomao.kandiantv.cn/douyu1.php?id=3439096
 
@@ -103,7 +113,6 @@ CCTV-1综合,http://live.dxms.top:80/dwy/mgak.php
 江湖风云4,http://maomao.kandiantv.cn/yy.php?id=1382800083
 江湖风云4,http://maomao.kandiantv.cn/yy.php?id=1354932707
 江湖风云5,http://maomao.kandiantv.cn/douyu1.php?id=7476264
-江湖风云5,http://maomao.kandiantv.cn/douyu1.php?id=5635000
 
 港剧天地1,http://maomao.kandiantv.cn/douyu1.php?id=4290711
 港剧天地2,http://maomao.kandiantv.cn/douyu1.php?id=5522351
@@ -112,13 +121,12 @@ CCTV-1综合,http://live.dxms.top:80/dwy/mgak.php
 港剧天地5,http://maomao.kandiantv.cn/douyu1.php?id=5061550
 
 岁月拾遗1,http://maomao.kandiantv.cn/douyu1.php?id=7119207
+岁月拾遗2,http://maomao.kandiantv.cn/douyu1.php?id=7338853
 岁月拾遗2,http://maomao.kandiantv.cn/douyu1.php?id=9838414
-岁月拾遗2,http://maomao.kandiantv.cn/yy.php?id=22089862
-岁月拾遗3,http://maomao.kandiantv.cn/douyu1.php?id=12191214
-岁月拾遗4,http://maomao.kandiantv.cn/douyu1.php?id=12169420
+岁月拾遗3,http://maomao.kandiantv.cn/douyu1.php?id=5635000
+岁月拾遗4,http://maomao.kandiantv.cn/douyu1.php?id=12191214
 岁月拾遗4,http://maomao.kandiantv.cn/yy.php?id=1382735542
 岁月拾遗5,http://maomao.kandiantv.cn/yy.php?id=1355260662
-岁月拾遗5,http://maomao.kandiantv.cn/yy.php?id=1354932359
 
 我爱我家,http://maomao.kandiantv.cn/yy.php?id=1382735557
 
@@ -153,9 +161,10 @@ CCTV-1综合,http://live.dxms.top:80/dwy/mgak.php
 我的！体育老师,http://maomao.kandiantv.cn/yy.php?id=1382745169
 吾儿可教,http://maomao.kandiantv.cn/yy.php?id=1354932391
 
-欢乐颂,http://maomao.kandiantv.cn/yy.php?id=1382851577
-流金岁月(内地),http://maomao.kandiantv.cn/yy.php?id=1382749906
 粉红女郎,http://maomao.kandiantv.cn/yy.php?id=1354888671
+流金岁月(内地),http://maomao.kandiantv.cn/yy.php?id=1382749906
+欢乐颂,http://maomao.kandiantv.cn/yy.php?id=1382851577
+怪你过分美丽,http://maomao.kandiantv.cn/yy.php?id=1354932359
 北京爱情故事,http://maomao.kandiantv.cn/yy.php?id=1382744423
 致我们暖暖的小时光,http://maomao.kandiantv.cn/yy.php?id=1382736874
 亲爱的，热爱的,http://maomao.kandiantv.cn/yy.php?id=1354932433
@@ -191,10 +200,7 @@ CCTV-1综合,http://live.dxms.top:80/dwy/mgak.php
 和平饭店,http://maomao.kandiantv.cn/douyu1.php?id=9650782
 
 神探狄仁杰,http://maomao.kandiantv.cn/yy.php?id=1382705592
-
-少年包青天,http://maomao.kandiantv.cn/yy.php?id=1356043677
-少年包青天,http://maomao.kandiantv.cn/yy.php?id=1382851540
-
+少年包青天,http://maomao.kandiantv.cn/yy.php?id=1356338181
 无敌县令,http://maomao.kandiantv.cn/yy.php?id=1354932390
 寒山潜龙,http://maomao.kandiantv.cn/yy.php?id=1382745103
 
@@ -282,7 +288,9 @@ CCTV-1综合,http://live.dxms.top:80/dwy/mgak.php
 
 
 【 观影 】,#genre#
-放映厅1,http://live.dxms.top:80/dwy/hyyy.php
+放映厅1,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+放映厅1,http://tvbox6.icu/tv/migu.php?id=cctv6
+
 放映厅2,http://maomao.kandiantv.cn/douyu1.php?id=8770422
 放映厅3,http://maomao.kandiantv.cn/douyu1.php?id=20415
 
