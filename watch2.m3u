@@ -1,11 +1,8 @@
 【 看看 】,#genre#
-CCTV-13新闻,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 
-CCTV-12社会与法,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
 CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 
-CCTV-3综艺,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
 小品相声1,http://maomao.kandiantv.cn/douyu1.php?id=9067836
@@ -60,8 +57,12 @@ CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index
 
 
 【 动画 】,#genre#
-CCTV-14少儿,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
@@ -99,10 +100,8 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 
 
 【 看剧 】,#genre#
-CCTV-1综合,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
-CCTV-8电视剧,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
 CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -299,11 +298,9 @@ CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/in
 
 
 【 观影 】,#genre#
-放映厅1,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
 放映厅1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 
-放映厅2,http://cg6.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?t=VwFiKC8%2Fi8f%2B6CDdOS5f5A%3D%3D&u=HNTV01YU00021202&p=8&cid=10000081&pid=&l=1&d=48555E45F7FC&ip=192.168.197.127&n=CHCGQ_8000&errorcode=0&sid=MlE%2BuV%2FON7MM6310fiBTpg%3D%3D&r=20231212111248&e=20231212151248&nc=bHZFrU2ASl02&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422696237&srchost=172.16.22.158:8060&gid=P%2BUM0yvAUJ7cFgaqUZr56A%3D%3D
-放映厅2,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+放映厅2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
 放映厅3,http://maomao.kandiantv.cn/douyu1.php?id=8770422
 放映厅4,http://maomao.kandiantv.cn/douyu1.php?id=20415
