@@ -555,20 +555,18 @@ CCTV-8电视剧,http://uycc.cn:36245/udp/239.77.0.172:5146
 放映厅7,http://huanqiuzhibo.cn/manifest/douyu.php?id=12192607
 放映厅8,http://huanqiuzhibo.cn/manifest/douyu.php?id=12143022
 
-放映厅9,http://zby.xjqxz.top/hkdy1/live.m3u8
+放映厅9,http://zby.xjqxz.top/zh04/live.m3u8
 放映厅9,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876
 
-放映厅10,http://zby.xjqxz.top/zh04/live.m3u8
+放映厅10,http://zby.xjqxz.top/hlwdy1/live.m3u8
 放映厅10,http://huanqiuzhibo.cn/manifest/douyu.php?id=7254536
+放映厅10,http://huanqiuzhibo.cn/manifest/douyu.php?id=52787
 
-放映厅11,http://zby.xjqxz.top/hlwdy1/live.m3u8
-放映厅11,http://huanqiuzhibo.cn/manifest/douyu.php?id=52787
+放映厅11,http://zby.xjqxz.top/zh06/live.m3u8
+放映厅11,http://huanqiuzhibo.cn/manifest/douyu.php?id=322360
 
-放映厅12,http://zby.xjqxz.top/zh06/live.m3u8
-放映厅12,http://huanqiuzhibo.cn/manifest/douyu.php?id=322360
-
-放映厅13,http://zby.xjqxz.top/live13/live.m3u8
-放映厅13,http://xxw.me0.cn/1905dy.php?id=1905a
+放映厅12,http://zby.xjqxz.top/live13/live.m3u8
+放映厅12,http://xxw.me0.cn/1905dy.php?id=1905a
 
 
 
@@ -582,6 +580,6 @@ CCTV-8电视剧,http://uycc.cn:36245/udp/239.77.0.172:5146
 
 放映厅9,http://jiaojirentv.top/2020/dy.php?id=323876
 放映厅10,http://jiaojirentv.top/2020/dy.php?id=7254536
-放映厅11,http://jiaojirentv.top/2020/dy.php?id=52787
-放映厅12,http://jiaojirentv.top/2020/dy.php?id=322360
-放映厅13,http://php.jdshipin.com:8880/1905.php?id=1905dy
+放映厅10,http://jiaojirentv.top/2020/dy.php?id=52787
+放映厅11,http://jiaojirentv.top/2020/dy.php?id=322360
+放映厅12,http://php.jdshipin.com:8880/1905.php?id=1905dy
